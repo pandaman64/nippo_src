@@ -1,5 +1,5 @@
 #1/usr/bin/env bash
-set -euxo pipefail
+set -euo pipefail
 
 cat << EOF
 ---
